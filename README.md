@@ -7,3 +7,4 @@
 <img src="https://github.com/jwang92805/RUNAWAY/blob/master/Screenshot%206.PNG" height="200px" onclick="alert('Go Away')">
 <img src="https://github.com/jwang92805/RUNAWAY/blob/master/Screenshot%204.PNG" height="200px" onclick="alert('Go Away')">
 <a href="https://www.python.org/downloads/">Download Python</a>
+<a href="https://www.youtube.com/watch?v=_GikMdhAhv0&feature=youtu.be">Installing Python</a>
